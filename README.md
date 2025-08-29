@@ -1,2 +1,2 @@
 # Tahun-Kabisat
-Menentukan tahun kabisat
+Menentukan tahun kabisat menggunakan C++
